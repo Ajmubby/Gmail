@@ -1,6 +1,6 @@
 import { PT_Mono } from "next/font/google";
 import "./globals.css";
-import CompleteHeader from "./component/Completeheader";
+import CompleteHeader from "./component/CompleteHeader";
 
 const inter = PT_Mono({ subsets: ["latin"], weight:['400'] });
 
